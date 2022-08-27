@@ -1,0 +1,15 @@
+.home-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 24px 16px;
+  gap: 24px;
+  min-height: 90vh;
+
+  .accordion-content{
+    border-radius: 8px;
+    border: 1px solid #eee;
+    padding: 8px;
+  }
+}
