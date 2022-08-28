@@ -1,4 +1,4 @@
-![accordion](https://user-images.githubusercontent.com/49729648/187063754-47b4dbfd-0c10-453d-8f53-afa7283096a4.gif)
+![accordion](https://user-images.githubusercontent.com/49729648/187064888-07bfe486-8a3c-401c-a8ee-93df9f640887.gif)
 
 # Getting Started with Create React App
 
