@@ -13,7 +13,7 @@ const Home: React.FC = () => {
           <div className="accordion-content">
             <span>{`Hi ${String.fromCodePoint(
               0x1f44b
-            )}, This is a Accordion!`}</span>
+            )}, This is an Accordion!`}</span>
             <ul>
               <li>option 1</li>
               <li>option 2</li>
